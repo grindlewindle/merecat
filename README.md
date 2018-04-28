@@ -13,7 +13,7 @@ Merecat expands a lot on the features originally offered by thttpd, but
 still has a very limited feature set:
 
 - Virtual hosts
-- Basic `.htpassd` and `.htaccess` support
+- Basic `.htpasswd` and `.htaccess` support
 - URL-traffic-based throttling
 - CGI/1.1
 - HTTP/1.1 Keep-alive
